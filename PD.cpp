@@ -5,6 +5,9 @@
 //  Created by Alice Paul on 3/21/17.
 //  Copyright © 2017 Alice Paul. All rights reserved.
 //
+//  MIT License
+//  Copyright (c) 2020 alicepaul
+//
 
 
 #include "PD.hpp"
