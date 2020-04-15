@@ -4,6 +4,8 @@
 //
 //  Created by Alice Paul on 4/10/17.
 //
+//  MIT License
+//  Copyright (c) 2020 alicepaul
 //
 #include <stdio.h>
 #include <map>
