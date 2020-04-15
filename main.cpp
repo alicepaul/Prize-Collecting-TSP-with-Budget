@@ -3,8 +3,10 @@
 //  Prize Collecting TSP
 //
 //  Created by Alice Paul on 3/14/17.
-//  Copyright © 2017 Alice Paul. All rights reserved.
-//
+
+//  MIT License
+//  Copyright (c) 2020 alicepaul
+
 
 #include <stdio.h>
 #include <map>
